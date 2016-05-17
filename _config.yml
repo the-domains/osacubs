@@ -1,0 +1,28 @@
+name: OSACUBS
+favicon: null
+layout_spectrum: 0.6603035668376833
+typography_spectrum: 0.2140272797551006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9582206171471626
+  lightness: 0.5162423443980515
+  saturation: 0.9870113907381892
+  rhythmicContrast: 0.7432213039137423
+purpose: []
